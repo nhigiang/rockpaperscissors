@@ -1,9 +1,13 @@
-.row{
-  text-align:center;
-  
+.row {
+  text-align: center;
 }
-#choices{
-  display:flex;
-  justify-content:space-between;
-  
+#choices {
+  display: flex;
+  justify-content: space-between;
+}
+#computerChoice{
+  color: indigo ;
+}
+#userChoice {
+  color: firebrick;
 }
